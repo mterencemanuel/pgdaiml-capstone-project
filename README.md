@@ -37,7 +37,8 @@ EDA.ipynb
 │   └── best_model.pkl     ← Saved model artifacts
 
 How to run the code:
-You can use Google Gemini and select RUN ALL to run everything inclydng the data source and model. 
+You can use Google Gemini and select RUN ALL to run everything includng the data source and model.
+Make sure to add the imported data or it will cause an error
 
 Results Summary:
 GridSearchCV Results:
